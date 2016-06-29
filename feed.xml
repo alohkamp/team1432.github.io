@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Team 1432</title>
+  <id>https://team1432.github.io</id>
+  <link href="https://team1432.github.io"/>
+  <link href="https://team1432.github.io/feed.xml" rel="self"/>
+</feed>
